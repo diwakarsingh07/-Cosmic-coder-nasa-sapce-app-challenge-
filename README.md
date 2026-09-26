@@ -10,33 +10,33 @@ We are a dedicated two-member developer team pushing personal and technical limi
 Driven by an ambition to master complex engineering, deep algorithmic decision-making frameworks, and geo-technical innovation, our mission is to build highly optimized technology designed to solve real-world and astronomical challenges.
 
 ### 📈 Repository Metrics:
-![GitHub commit activity](https://shields.io)
+<img src="https://shields.io" alt="GitHub commit activity" height="20"/>
 
 ## 🌐 Socials:
 
 | Platform | Badge |
 | :--- | :--- |
-| **Instagram** | [![Instagram](https://shields.io)](https://instagram.com) |
-| **Reddit** | [![Reddit](https://shields.io)](https://reddit.com) |
-| **X / Twitter** | [![X](https://shields.io)](https://x.com) |
-| **Email** | [![Email](https://shields.io)](mailto:idiwakarsharma@gmail.com) |
+| **Instagram** | <a href="https://instagram.com"><img src="https://shields.io" height="28"/></a> |
+| **Reddit** | <a href="https://reddit.com"><img src="https://shields.io" height="28"/></a> |
+| **X / Twitter** | <a href="https://x.com"><img src="https://shields.io" height="28"/></a> |
+| **Email** | <a href="mailto:idiwakarsharma@gmail.com"><img src="https://shields.io" height="28"/></a> |
 
 # 💻 Tech Stack:
 
 | Technology | Purpose & Application |
 | :--- | :--- |
-| ![Java](https://shields.io) | Align with high performance data schemas. |
-| ![HTML5](https://shields.io) | Structured system architecture wireframes. |
-| ![JavaScript](https://shields.io) | Interactive data logic layer scripts. |
-| ![Python](https://shields.io) | Scalable data extraction engines. |
-| ![PHP](https://shields.io) | Server side application environments. |
-| ![Vercel](https://shields.io) | Cloud hosting microservices pipeline. |
-| ![FastAPI](https://shields.io) | Asynchronous payload delivery routing. |
-| ![React Native](https://shields.io) | Mobile runtime interfaces. |
-| ![SQLite](https://shields.io) | Local lightweight relational structures. |
-| ![Adobe](https://shields.io) | Assets and presentation layout maps. |
-| ![GitHub](https://shields.io) | Code distribution tracking frameworks. |
-| ![Prometheus](https://shields.io) | System telemetry logging suites. |
+| <img src="https://shields.io" height="20"/> | Align with high performance data schemas. |
+| <img src="https://shields.io" height="20"/> | Structured system architecture wireframes. |
+| <img src="https://shields.io" height="20"/> | Interactive data logic layer scripts. |
+| <img src="https://shields.io" height="20"/> | Scalable data extraction engines. |
+| <img src="https://shields.io" height="20"/> | Server side application environments. |
+| <img src="https://shields.io" height="20"/> | Cloud hosting microservices pipeline. |
+| <img src="https://shields.io" height="20"/> | Asynchronous payload delivery routing. |
+| <img src="https://shields.io" height="20"/> | Mobile runtime interfaces. |
+| <img src="https://shields.io" height="20"/> | Local lightweight relational structures. |
+| <img src="https://shields.io" height="20"/> | Assets and presentation layout maps. |
+| <img src="https://shields.io" height="20"/> | Code distribution tracking frameworks. |
+| <img src="https://shields.io" height="20"/> | System telemetry logging suites. |
 
 # 📊 GitHub Stats:
 <p align="left">
@@ -44,7 +44,7 @@ Driven by an ambition to master complex engineering, deep algorithmic decision-m
 </p>
 
 ### ✍️ Random Dev Quote
-![](https://vercel.app)
+<img src="https://vercel.app" alt="Random Dev Quote" />
 
 ---
 <p align="left">
